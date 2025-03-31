@@ -1,0 +1,3 @@
+target_ip:      # 被攻击端IP
+target_port:    # 被攻击端端口
+threads:        # 线程数量
